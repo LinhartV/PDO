@@ -6,4 +6,7 @@
 
 -------
 Aplikace určena vedoucím dětských táborů a jiných volnočasových aktivit pro mládež.
+
 Předpokládá se základní vzdělání a schopnost pracovat s PC na uživatelské úrovni.
+
+Forma: offline dokument na PC
